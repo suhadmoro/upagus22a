@@ -1,0 +1,207 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3459782106934381/7517971056",
+      "main_ads_intertitial":"ca-app-pub-3459782106934381/7334423636",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "New Palapa Terbaik",
+      "image": "file:///android_asset/image/palapagambar.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "New Palapa Terbaik",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 2,
+      "name_category": "New Palapa Terbaik",
+      "title": "YENI INKA SATRU 2",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "New Palapa Terbaik",
+      "title": "TIARA AMORA  TIARA",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "New Palapa Terbaik",
+      "title": "GERRY MAHESA  BUKAN YANG KUPINTA",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 5,
+      "name_category": "New Palapa Terbaik",
+      "title": "NAGIH JANJI",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 6,
+      "name_category": "New Palapa Terbaik",
+      "title": "JIHAN AUDY  HUTANG  POK AMAI AMAI",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 7,
+      "name_category": "New Palapa Terbaik",
+      "title": "WIDODARI",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "New Palapa Terbaik",
+      "title": "Fira Azahra ft Ageng Music  Tiara",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 9,
+      "name_category": "New Palapa Terbaik",
+      "title": "JIHAN AUDY  CINTAKU",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 10,
+      "name_category": "New Palapa Terbaik",
+      "title": "Mira Putri ft Ageng Music  Kecewa Dalam Setia",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 11,
+      "name_category": "New Palapa Terbaik",
+      "title": "Sembilu",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 12,
+      "name_category": "New Palapa Terbaik",
+      "title": "TANDA MERAH",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 13,
+      "name_category": "New Palapa Terbaik",
+      "title": "MENYESAL",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 14,
+      "name_category": "New Palapa Terbaik",
+      "title": "CINTA SAMPAI MATI",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 15,
+      "name_category": "New Palapa Terbaik",
+      "title": "MELEPAS LAJANG",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 16,
+      "name_category": "New Palapa Terbaik",
+      "title": "Wegah Kelangan",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/16.ogg",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 17,
+      "name_category": "New Palapa Terbaik",
+      "title": "BILA NANTI",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 18,
+      "name_category": "New Palapa Terbaik",
+      "title": "Ikhlas Ngenteni",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 19,
+      "name_category": "New Palapa Terbaik",
+      "title": "LANGIT MENDUNG KUTHO NGAWI",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 20,
+      "name_category": "New Palapa Terbaik",
+      "title": "Mungkin Nanti",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 21,
+      "name_category": "New Palapa Terbaik",
+      "title": "Rungokno Aku",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    },
+    {
+      "id": 22,
+      "name_category": "New Palapa Terbaik",
+      "title": "Sia Sia Berjuang",
+      "image": "file:///android_asset/image/palapagambar.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">kumpulan Lagu Monata Terbaik Dan Terbaru</p>"
+    }
+  ]
+}
