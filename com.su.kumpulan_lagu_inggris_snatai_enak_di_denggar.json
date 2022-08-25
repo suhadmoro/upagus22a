@@ -1,0 +1,233 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Lagu Inggris",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Lagu Inggris",
+      "title": "A Thousand Years",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Lagu Inggris",
+      "title": "At My Worst",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Lagu Inggris",
+      "title": "Build a Bitch",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Lagu Inggris",
+      "title": "Call Me By Your Name",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Lagu Inggris",
+      "title": "Cant Take My Eyes Off Of You",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Lagu Inggris",
+      "title": "Demons",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Lagu Inggris",
+      "title": "DONT GIVE UP ON ME",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Lagu Inggris",
+      "title": "double take",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Lagu Inggris",
+      "title": "Girls Like You",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Lagu Inggris",
+      "title": "HEARTBREAK ANNIVERSARY",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Lagu Inggris",
+      "title": "Here s Your Perfect",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Lagu Inggris",
+      "title": "I Don t Wanna Miss A Thing",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Lagu Inggris",
+      "title": "Imagine Dragons",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Lagu Inggris",
+      "title": "It Will Rain",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Lagu Inggris",
+      "title": "love is gone",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Lagu Inggris",
+      "title": "Memories",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Lagu Inggris",
+      "title": "Need You Now",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Lagu Inggris",
+      "title": "Nothings Gonna Change My Love For You",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Lagu Inggris",
+      "title": "RIGHT HERE WAITING",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Lagu Inggris",
+      "title": "SOMEONE YOU LOVED",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Lagu Inggris",
+      "title": "Talking To The Moon",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Lagu Inggris",
+      "title": "To The Bone",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Lagu Inggris",
+      "title": "True Colors",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Lagu Inggris",
+      "title": "When You Say Nothing",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Lagu Inggris",
+      "title": "You Are The Reasons",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Inggris</p>"
+	}
+  ]
+}
