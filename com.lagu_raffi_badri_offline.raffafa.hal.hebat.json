@@ -1,0 +1,281 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Raffa Affar",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Raffa Affar",
+      "title": "Dinding Pemisah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Raffa Affar",
+      "title": "Tak Ingin Pergi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Raffa Affar",
+      "title": "Airmata Di Hari Persandinganmu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Raffa Affar",
+      "title": "Cinta Sampai Mati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Raffa Affar",
+      "title": "Semoga Disemogakan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Raffa Affar",
+      "title": "Aku Dan Kamu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Raffa Affar",
+      "title": "Sudah Tak Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Raffa Affar",
+      "title": "Cinta Sampai Mati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Raffa Affar",
+      "title": "Tiara",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Raffa Affar",
+      "title": " Rindu Terpendam",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Raffa Affar",
+      "title": "Ceritakan Kembali",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Raffa Affar",
+      "title": "ILU IMU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Raffa Affar",
+      "title": "Cinta Sampai Mati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Raffa Affar",
+      "title": "ANTARA ADA DAN TIADA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Raffa Affar",
+      "title": "BENCI UNTUK MENCINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Raffa Affar",
+      "title": "BIARLAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Raffa Affar",
+      "title": "CINTA TAK HARUS MEMILIKI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Raffa Affar",
+      "title": "CUMA SAYA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Raffa Affar",
+      "title": "DINDA JANGAN MARAH-MARAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Raffa Affar",
+      "title": "DUKA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Raffa Affar",
+      "title": "DUKA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Raffa Affar",
+      "title": "Hendaklah cari pengganti",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Raffa Affar",
+      "title": "HUJAN KEMARIN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Raffa Affar",
+      "title": "Ingin Hilang Ingatan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Raffa Affar",
+      "title": "JANJI SUCI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Raffa Affar",
+      "title": "KU TAK BISA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Raffa Affar",
+      "title": "Mencari Alasan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Raffa Affar",
+      "title": "Mulak Manogot",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Raffa Affar",
+      "title": "mungkin hari ini hari esok atau nanti",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Raffa Affar",
+      "title": "SELURUH NAFAS INI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/kim.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "Raffa Affar",
+      "title": "Pedih",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/31.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Raffa Affar</p>"
+	}
+  ]
+}
