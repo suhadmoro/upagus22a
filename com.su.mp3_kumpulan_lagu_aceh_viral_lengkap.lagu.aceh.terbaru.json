@@ -15,8 +15,8 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
+"MODE_BACKUP_ADS" : false,
+"MODE_NO_ADS" : true,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -40,7 +40,7 @@
 "MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
-"STARTAPPID" : "201365479",
+"STARTAPPID" : "",
 
 "ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
 "ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
