@@ -8,7 +8,7 @@
 "HOMEURL" : "file:///android_asset/music/playlist.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Mohon Bersabar",
+"JSON_POPUP_WAIT" : "Mohon Menunggu",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
@@ -30,14 +30,14 @@
 "PENGATURAN_IKLAN_INTER" : "ADMOB",
 "PENGATURAN_IKLAN_NATIVE" : "ADMOB",
 
-"INTER_COUNT" : "5",
+"INTER_COUNT" : "20",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
 "ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
 
-"MODE_OFFLINE_MP3" : false,
+"MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : true,
 
 "STARTAPPID" : "",
@@ -77,7 +77,7 @@ Bantu kami dengan rating bingtang 5 ya
 
 Klik tombol rating 
 ",
-"RATE_BUTTON" : "Beri Kami Bintang 5",
+"RATE_BUTTON" : "Rate 5 Stars",
 "LATER_BUTTON" : "Later",
 "ENABLE_SHARE_BUTTON" : true,
 "SHARE_TXT" : "
