@@ -1,97 +1,297 @@
 {
-"redirect" : {
-
-// untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
-// pastikan mode offline mp3 true jika merubah ke mode mp3
-// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
-
-"HOMEURL" : "file:///android_asset/music/playlist.html",
-
-// testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Mohon Menunggu",
-
-// Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
-
-// main ads ke backup ads 
-"MODE_BACKUP_ADS" : false,
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
-
-//     mode pengaturan iklan
-//     Mode ADMOB       Admob backup Unity Backup Startapp
-//     Mode FAN         FAN backup Unity Backup Startapp
-//     Mode APPODEAL    Appodeal backup Unity Backup Startapp
-//     Mode UNITY       Unity backup Startapp
-//     Mode APPLOVIN    Applovin backup Unity Backup Startapp
-//     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
-
-"INTER_COUNT" : "20",
-
-"ENABLE_STRAP" : true,
-"ENABLE_STRAP_SPLAHSCREEN" : false,
-
-"ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
-
-"MODE_OFFLINE_MP3" : true,
-"ENABLE_STICKY_NOTIFICATION" : true,
-
-"STARTAPPID" : "",
-
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
-
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
-"HPK_ADMOB5" : "Donasi",
-
-"FAN_BANNER" : "YOUR_PLACEMENT_ID",
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
-
-"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
-
-"UNITY_BANNER" : "banner",
-"UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "4114625",
-
-"APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc",
-
-"BUTTON_START" : "START",
-"BUTTON_SHARE" : "SHARE TO FRIEND",
-"BUTTON_RATING" : "RATING NOW",
-
-"EXIT_POPUP_DIALOG" : "
-Agar Kami lebih semangat mengembangkan Aplikasi ini
-
-Bantu kami dengan rating bingtang 5 ya 
-
-Klik tombol rating 
-",
-"RATE_BUTTON" : "Rate 5 Stars",
-"LATER_BUTTON" : "Later",
-"ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-this app is awesome 
-
-you need try to donwload this app
-i.ve download and so much happy
-
-",
-
-"MORE_BUTTON" : "Share Via WhatsApp",
-// Jika share button TRUE maka tombol MORE berubah SHARE
-// isi url more apps jika ENABLE_SHARE_BUTTON  is false
-"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=devname"
-
- }
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Lagu Aceh Offline",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Lagu Aceh Offline",
+      "title": "TABEU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Pungo Bubayang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Lagu Aceh Offline",
+      "title": "ASOE JURE",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Meuh Lam Batee  Jeki",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Meutajoe  Tajoe",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Pusaka",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Rante Peuteumun",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Lagu Aceh Offline",
+      "title": " Do Da Idi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Lagu Aceh Offline",
+      "title": " Jangeun Keu Adoe",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Ratoh",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Adek SeulebGram",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Lagu Aceh Offline",
+      "title": "AKHIR CERITA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Lagu Aceh Offline",
+      "title": "BEK PAKEK SYARAT",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Cinta Meusangkot Bak Jeulame",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Lagu Aceh Offline",
+      "title": "HALALKAN AKU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Hana Ngoen Ba Jeulame",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Jaga Tuboh",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Jambo",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Janji Silanget",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Kau Tau Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Lagu Aceh Offline",
+      "title": "KEUCEWA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Khilaf",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Malia",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Lagu Aceh Offline",
+      "title": "MENGALAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Meusare Sare",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Lagu Aceh Offline",
+      "title": "PANTAS KAU SESALI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Lagu Aceh Offline",
+      "title": "PILIHAN HATE",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Lagu Aceh Offline",
+      "title": "SALEUM",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Lagu Aceh Offline",
+      "title": "SIKSA RINDU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Syukur",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/kim.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "Lagu Aceh Offline",
+      "title": "Tambatan Hati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/31.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 32,
+      "name_category": "Lagu Aceh Offline",
+      "title": "TAREK PUKAT",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/32.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "Lagu Aceh Offline",
+      "title": "TIDAK SEPADAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/33.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Lagu Aceh Offline</p>"
+	}
+  ]
 }
