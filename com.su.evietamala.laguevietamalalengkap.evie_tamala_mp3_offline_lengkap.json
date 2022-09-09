@@ -1,0 +1,337 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "1001 Hari",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Ada Rindu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Akhir Sebuah Cerita",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Aku Rindu Padamu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Asih",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Asmara",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Cinta Kasihku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Cintai Aku Karena Allah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Cumantel Bae",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Dokter cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Duka",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Gadis Miskin",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Hitam Manis",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Janji",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Janur Kuning",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Kandas",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Kau Tetap Kusayang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Kesunyian",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Kumismu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Lilin Lilin Putih",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Luka di Atas Luka",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Luka Hati Luka Diri",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Lukaku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Mata Hati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Mendamba",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Mutiara Hidupku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "New Pallapa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Nyanyian Rindu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Permata Hati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Racun Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 31,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Rahasia Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 32,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Rambut",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 33,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Rembulan Malam",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 34,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Rumah Bambu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 35,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Sebuah janji",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 36,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Selalu Rindu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 37,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Selamat Malam",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 38,
+      "name_category": "Lagu Evie Tamala Terbaik Sepanjang Masa",
+      "title": "Selamat Ulang Tahun",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Evie Tamala Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
