@@ -1,0 +1,212 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Song Kamen Rider",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider  Smile",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider 555",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Black Rx",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Decade",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Den O",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Ex-aid 1",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Ex-Aid 2",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Faiz 1",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Faiz 2",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Faiz 555 v2",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Gaim",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Kiva",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider New Den",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider W W B X",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider W",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Zi O 1",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Song Kamen Rider",
+      "title": "Kamen Rider Zi O 2",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Song Kamen Rider",
+      "title": "KSATRIA BAJA HITAM RX",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Song Kamen Rider",
+      "title": "Masked Rider 1",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	}
+      "id": 20,
+      "name_category": "Song Kamen Rider",
+      "title": "Masked Rider 2",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	}
+      "id": 21,
+      "name_category": "Song Kamen Rider",
+      "title": "Masked Rider 3",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	}
+      "id": 22,
+      "name_category": "Song Kamen Rider",
+      "title": "Masked Rider 4",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Song Kamen Rider Terlengkap Dan Paling Banyak Dicari</p>"
+	}
+  ]
+}
