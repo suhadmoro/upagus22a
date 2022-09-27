@@ -1,97 +1,279 @@
 {
-"redirect" : {
-
-// untuk merubah menjadi mode mp3 - panggil link ini via offline / json - "file:///android_asset/music/playlist.html"
-// pastikan mode offline mp3 true jika merubah ke mode mp3
-// https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html
-
-"HOMEURL" : "file:///android_asset/music/playlist.html",
-
-// testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Mohon Besrsabar",
-
-// Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : false,
-"LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=",
-
-// main ads ke backup ads 
-"MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
-
-//     mode pengaturan iklan
-//     Mode ADMOB       Admob backup Unity Backup Startapp
-//     Mode FAN         FAN backup Unity Backup Startapp
-//     Mode APPODEAL    Appodeal backup Unity Backup Startapp
-//     Mode UNITY       Unity backup Startapp
-//     Mode APPLOVIN    Applovin backup Unity Backup Startapp
-//     Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
-"PENGATURAN_IKLAN_BANNER" : "ADMOB",
-"PENGATURAN_IKLAN_INTER" : "ADMOB",
-"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
-
-"INTER_COUNT" : "5",
-
-"ENABLE_STRAP" : false,
-"ENABLE_STRAP_SPLAHSCREEN" : false,
-
-"ADS_ON_EXIT_DIALOG" : true, // WARNING - CTR MENINGKAT
-
-"MODE_OFFLINE_MP3" : true,
-"ENABLE_STICKY_NOTIFICATION" : true,
-
-"STARTAPPID" : "",
-
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
-
-"HPK_ALIENDROID" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
-"HPK_ADMOB5" : "Donasi",
-
-"FAN_BANNER" : "YOUR_PLACEMENT_ID",
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
-"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
-
-"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
-
-"UNITY_BANNER" : "",
-"UNITY_INTERSTITIAL" : "",
-"UNITY_GAME_ID" : "",
-
-"APPLOVIN_BANNER_MAX_ID" : "",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "",
-
-"BUTTON_START" : "Mulai",
-"BUTTON_SHARE" : "Bantu Bagikan Ya",
-"BUTTON_RATING" : "Mohon Bintang 5",
-
-"EXIT_POPUP_DIALOG" : "
-Agar Kami lebih semangat mengembangkan Aplikasi ini
-
-Bantu kami dengan rating bingtang 5 ya 
-
-Klik tombol rating 
-",
-"RATE_BUTTON" : "Rate 5 Stars",
-"LATER_BUTTON" : "Later",
-"ENABLE_SHARE_BUTTON" : true,
-"SHARE_TXT" : "
-this app is awesome 
-
-you need try to donwload this app
-i.ve download and so much happy
-
-",
-
-"MORE_BUTTON" : "Share Via WhatsApp",
-// Jika share button TRUE maka tombol MORE berubah SHARE
-// isi url more apps jika ENABLE_SHARE_BUTTON  is false
-"URL_MORE_APPS" : "https://play.google.com/store/apps/developer?id=devname"
-
- }
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "DERMAGA BIRU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "DURI DURI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "FULL SENYUM SAYANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "Gedung Tua",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "Gerajakan Banyuwangi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "GERIMIS MENGUNDANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "Hendaklah Cari Pengganti",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "IKHLASKU BAHAGIAMU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "JANGAN TINGGALKAN AKU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "JANJI PUTIH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "JIKA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "Kalah Awu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "KALAH CEPET",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "KEDIRI SINGAPORE",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "KEHADIRAN CINTA",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "LOS DOL",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "Madiun Ngawi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "Maha Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "MAWAR BIRU",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "Menari Di Atas Luka",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "OJO NANGIS",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "PANTAI KLAYAR",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "Potret Kenangan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "RELAKU MENGALAH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "Rintihan Rindu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "SADAR DIRI",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "SAYANG SAYANG",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "SEBERKAS SINAR",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Lagu Om Adella Terbaik Sepanjang Masa",
+      "title": "SELAMAT JALAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Om Adella Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
 }
