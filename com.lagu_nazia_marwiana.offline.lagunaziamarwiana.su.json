@@ -1,0 +1,279 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "image": "file:///android_asset/image/icon.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "DEBU DEBU JALANAN",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/01.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 2,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Angin Sampaikan Rinduku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/02.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Menyerah",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/03.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 4,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Salah Menaruh Hati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/04.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Ada Dia",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/05.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Dalam Gelak Ku Menangis",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/06.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Gambaran Hati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/07.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 8,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Tak Sedalam Ini",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/08.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 9,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "OLEH OLEH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/09.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "ANDAIKAN JODOH",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/10.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Antara Nyaman Dan Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/11.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 12,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Anugerah Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/12.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Bahagia Sebentar Saja",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/13.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 14,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Bersujud Padamu",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/14.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 15,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Bidadari Cinta",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/15.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Bila Nanti",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/16.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Buih Jadi Permadani",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/17.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Cinta Hanya Sekali",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/18.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 19,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Cinta Membawa Derita",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/19.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Cinta Tasik Sumatra",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/20.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 21,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Cinta Untukmu Sayang",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/21.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 22,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Gambaran Hati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/22.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 23,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Hanya Insan Biasa",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/23.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 24,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Haruskah Aku Mati",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/24.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 25,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Izinkan",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/25.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 26,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Jangan Pernah Pergi",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/26.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 27,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Jangan Tinggalkan Aku",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/27.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 28,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Janji Putih",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/28.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+    {
+      "id": 29,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Kasmaran",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/29.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	},
+	{
+      "id": 30,
+      "name_category": "Lagu Nazia Marviana Terbaik Sepanjang Masa",
+      "title": "Kebahagiaan Yang Sirna",
+      "image": "file:///android_asset/image/icon.png",
+      "link_mp3": "mp3/30.mp3",
+      "lyrics": "<p style=\"text-align: center;\">Lagu Nazia Marviana Terbaik Sepanjang Masa Terlengkap Dan Apli banyak Dicari</p>"
+	}
+  ]
+}
